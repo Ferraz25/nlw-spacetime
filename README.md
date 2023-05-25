@@ -20,6 +20,9 @@ O NLW (Next Level Week) SpaceTime, é um evento gratuito de desenvolvimento web,
   <img src=".github/preview.png" width="100%">
 </p>
 
+## 🖥️ Projeto
+Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
